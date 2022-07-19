@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hello, It's Ashraful Islam. 👋
 
-<!--
-**Ashraful093/Ashraful093** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently studing in my 9th semester backgound of CSE.
+- 🌱 I’m currently learning Web Design, Software Development, and After Effect.
+- 👯 I’m looking to collaborate on my future.
+- 💬 Ask me about Any coding related stuff.
+- 📫 How to reach me: FB- https://www.facebook.com/photo/?fbid=2797853753840419&set=a.1386700828289059
+- ⚡ Fun fact: I am spending 12 hour by sleeping.
 -->
+
+
+<img src = "https://github-readme-stats.vercel.app/api?username=Ashraful093&&show_icons=true&title_color=blue&icon_color=red&text_color=blue&bg_color=sky">
