@@ -1,6 +1,6 @@
 ## Hello, It's Ashraful Islam. 👋
 
-- 🔭 I’m currently studing in my 9th semester backgound of CSE.
+- 🔭 I’m currently studing in my last semester backgound of CSE.
 - 🌱 I’m currently learning Web Design, Software Development, and After Effect.
 - 👯 I’m looking to collaborate on my future.
 - 💬 Ask me about Any coding related stuff.
